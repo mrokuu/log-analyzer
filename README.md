@@ -30,8 +30,7 @@ Przykład zawartości pliku wejściowego
 2023-01-02 00:10 95C
 ```
 
-Silnik ten generuje mocne pole elektromagnetyczne (EM), które może powodować zakłócenia w pracy czujnika. Jeśli w linii z danymi wejściowymi występuje jakiekolwiek zakłócenie (np. któraś dana jest niezgodna z określonym formatem, data/czas są niepoprawne, brakuje którejś z danych, temperatura jest ujemna, itp.) powodujące, że powyższe wytyczne do danych nie są spełnione, to dana linia uznawana jest za wadliwy log.![image](https://user-images.githubusercontent.com/107129687/233051268-6f08ff2a-429c-40f8-b3ec-68d122a6b005.png)
-
+Silnik ten generuje mocne pole elektromagnetyczne (EM), które może powodować zakłócenia w pracy czujnika. Jeśli w linii z danymi wejściowymi występuje jakiekolwiek zakłócenie (np. któraś dana jest niezgodna z określonym formatem, data/czas są niepoprawne, brakuje którejś z danych, temperatura jest ujemna, itp.) powodujące, że powyższe wytyczne do danych nie są spełnione, to dana linia uznawana jest za wadliwy log.
 
 ##Przykład zawartości pliku wejściowego z zakłóceniami
 
