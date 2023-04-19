@@ -8,11 +8,12 @@ Jako nowy programista w pewnej firmie motoryzacyjnej dostałeś za zadanie napis
 
 Plik wejściowy zawierający linie, gdzie każda linia zawiera następujące dane:
 
-- Date and time in the format **YYYY-MM-DD HH:MM**
-	-  Example: 2023-01-01 00:00
-- Temperature measurement in **XC** format
-	- Examples: 10C, 10.3C
-	- X can be a non-negative integer or a floating point number
+- Data i czas w formacie **YYYY-MM-DD HH:MM**
+	-  Przykład: 2023-01-01 00:00
+- Pomiar temperatury w formacie **XC** 
+	- Przykładu: 10C, 10.3C
+	- X może być nieujemną liczbą całkowitą albo zmiennoprzecinkową
+
   
 Dane te w linii są oddzielone przy pomocy pojedynczego znaku spacji.
 
@@ -33,6 +34,7 @@ Silnik ten generuje mocne pole elektromagnetyczne (EM), które może powodować 
 
 
 ##Przykład zawartości pliku wejściowego z zakłóceniami
+
 <img width="463" alt="Screenshot 2023-04-19 at 12 45 01" src="https://user-images.githubusercontent.com/107129687/233051440-063cda59-f2cb-4651-916d-4ae000b5d849.png">
 
 
